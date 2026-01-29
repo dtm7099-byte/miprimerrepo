@@ -5,4 +5,4 @@ mi primera contribucion local para githuub
 
 mi primer commit desde github
 
-una catualizacion mas
+corregi el misspelliing a actualizacion
